@@ -1,0 +1,8 @@
+Day 1
+-----
+1. node installation.
+2.github installation.
+3. creation of project.
+Note: while creating the vite project got some errors while npm run dev.
+solution:  node -v v21.1.0 this version does not support latest version so i unistall vite and used npm install vite@5.4.2
+    
